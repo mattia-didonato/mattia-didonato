@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mattia</h1>
-
-![Post di Facebook 940x788 px](https://user-images.githubusercontent.com/101564006/164437762-1659ce06-a0ec-4f9a-9d07-8c90aade27e1.gif)
-
+![Progetto senza titolo (1)](https://user-images.githubusercontent.com/101564006/164442580-2333b7ee-e966-4759-b769-ea7f0610a215.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattia-didonato&label=Profile%20views&color=0e75b6&style=flat" alt="mattia-didonato" /> </p>
 
