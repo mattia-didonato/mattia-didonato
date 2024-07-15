@@ -5,7 +5,7 @@
 
 
 
-- 🚀 I’m currently study on **Start2impact**
+- 🚀 I’m currently study on **EPICODE**
 
 - 🎥 I'm passionate about **Marvel movie**
 
