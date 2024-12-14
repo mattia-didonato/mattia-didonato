@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRoeGY4cXI5czQydWpva2YwdzllN3JpOGNmazdkMDJqbncxdTk2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Cybersecurity GIF" width="500">
 </div>
 
-<h1 align="center">Hi 👋, I'm Mattia Di Donato</h1>
+<h1 align="center">Welcome to my Github Profile 👋, I'm Mattia Di Donato</h1>
 <h3 align="center">🔐 Cybersecurity Specialist & Analyst from Italy 🇮🇹</h3>
 
 ###
@@ -38,10 +38,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat-square" height="60" alt="discord logo" />
+  </a>
+  <a href="mailto:mat.didonato96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="60" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/mattia-di-donato-6b3851340/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="60" alt="linkedin logo" />
+  </a>
 </div>
+
 
 ###
 
