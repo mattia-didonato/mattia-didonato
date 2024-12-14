@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: mattia-didonato # Sostituisci con il tuo username GitHub
+          github_user_name: mattia-didonato/mattia-didonato # Sostituisci con il tuo username GitHub
           outputs: dist/snake.svg
 
       # Step 3: Committa e aggiorna il file SVG
