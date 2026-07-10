@@ -1,59 +1,60 @@
-<div align="center">
+<h1 align="center">Ciao, sono TUO_NOME 👋</h1>
+
+<!-- ===== ANIMAZIONE: testo che si scrive da solo ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Sviluppatore;Appassionato+di+tecnologia;Benvenuto+sul+mio+profilo!" alt="Animazione testo" />
+</p>
+
+<!-- ===== GIF ANIMATA (opzionale) ===== -->
+<!-- Sostituisci l'URL con quello di una GIF a tua scelta (es. da giphy.com).
+     Per prendere il link: apri la GIF su Giphy > Copy Link > "GIF Link". -->
+<p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRoeGY4cXI5czQydWpva2YwdzllN3JpOGNmazdkMDJqbncxdTk2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Cybersecurity GIF" width="500">
-</div>
+</p>
 
-<h1 align="center">Welcome to my Github Profile 👋, I'm Mattia Di Donato</h1>
-<h3 align="center">🔐 Cybersecurity Specialist & Analyst from Italy 🇮🇹</h3>
+---
 
-###
+## 👨‍💻 Chi sono
 
-<div align="center">
-  <p>
-    Passionate about securing systems, analyzing threats, and building safe digital environments. <br />
-    Always learning and exploring new challenges in the field of cybersecurity! 🚀
-  </p>
-</div>
+- 🔭 Attualmente sto lavorando su **TUO_PROGETTO_ATTUALE**
+- 🌱 Sto imparando **COSA_STAI_IMPARANDO**
+- 💬 Chiedimi pure di **ARGOMENTI_SU_CUI_TI_PIACE_PARLARE**
 
-###
+---
 
-<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-  <h2 style="color: #00aaff; font-family: Arial, sans-serif; font-weight: bold; margin-bottom: 20px;">
-    📊 My GitHub Stats
-  </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mattia-didonato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph" style="margin: 10px; border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattia-didonato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph" style="margin: 10px; border-radius: 10px;" />
-</div>
+## 📜 Certificazioni
 
-###
+| Certificazione | Ente | Anno |
+|----------------|------|------|
+| NOME_CERTIFICAZIONE_1 | ENTE_1 | 20XX |
+| NOME_CERTIFICAZIONE_2 | ENTE_2 | 20XX |
+| NOME_CERTIFICAZIONE_3 | ENTE_3 | 20XX |
 
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpoazk0d2dnZHVwbzF4cGM0d2htbHV4emx4dzBkbHVmZmY3OW9keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvvVnSnmLeENMcsOJg/giphy.gif" />
+<a href="https://www.credly.com/badges/7949ee82-411a-49c1-b04d-725fd9847087/public_url">
+  <img src="comptia-security-ce-certification.png" width="120" alt="CompTIA Security+ ce Certification" />
+</a>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="100" alt="C logo" />
-</div>
+## 🛠️ Competenze
 
-###
+<!-- Sostituisci/aggiungi le tecnologie che usi. La lista completa dei loghi
+     disponibili è su https://shields.io e su https://simpleicons.org -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<div align="left">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat-square" height="60" alt="discord logo" />
+---
+
+## 📫 Dove trovarmi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TUO_PROFILO_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mat.didonato96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="60" alt="gmail logo" />
+  <a href="mailto:TUA_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/mattia-di-donato-6b3851340/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="60" alt="linkedin logo" />
-  </a>
-</div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mattia-didonato/mattia-didonato/output/snake.svg" alt="Snake animation" />
-
-###
+</p>
