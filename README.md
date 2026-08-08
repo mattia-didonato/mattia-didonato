@@ -42,7 +42,7 @@ Ho inoltre avuto l'opportunità di lavorare con OpenShift, seppur limitatamente 
   <img src="red-hat-certified-system-administrator-RHCSA .png" width="120" alt="red-hat-certified-system-administrator-RHCSA" />
 </a>
 
-<a href="https://www.credly.com/badges/7949ee82-411a-49c1-b04d-725fd9847087/public_url">
+<a href="https://www.credly.com/badges/46e26e7d-e838-4643-b8c7-fa5f45c50ee7/public_url">
   <img src="red-hat-certified-advanced-system-administrator-in-.png" width="120" alt="CompTIA Security+ ce Certification" />
 </a>
 
