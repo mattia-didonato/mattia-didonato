@@ -46,6 +46,10 @@ Ho inoltre avuto l'opportunità di lavorare con OpenShift, seppur limitatamente 
   <img src="red-hat-certified-advanced-system-administrator-in-.png" width="120" alt="CompTIA Security+ ce Certification" />
 </a>
 
+<a href="https://www.credly.com/badges/e0ab46de-d6c2-4624-bd38-bce03d0f6b7a/public_url">
+  <img src="red-hat-certified-engineer-in-ansible.png" width="120" alt="RHCE" />
+</a>
+
 ---
 
 ## 🛠️ Competenze
