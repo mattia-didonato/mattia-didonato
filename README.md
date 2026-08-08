@@ -19,7 +19,7 @@
 
 Mi piace considerarmi una persona curiosa e intraprendente: non mi accontento di comprendere un concetto in maniera superficiale, ma cerco sempre di scavare a fondo per capirne appieno il funzionamento.
 Sento di essere una persona che ha bisogno di stimoli continui: la mia natura mi spinge a cercare sempre nuove sfide, per accrescere sia il mio bagaglio formativo che quello professionale.
-Al momento sono fortemente concentrato sullo studio di Linux: ho da poco conseguito la certificazione RHCSA, che attesta le mie competenze come amministratore di sistema, e sto proseguendo il percorso verso la certificazione RHCE, che invece certifica le competenze in Ansible Automation Platform (AAP).
+Al momento sono fortemente concentrato sullo studio di Linux: ho da poco conseguito la certificazione RHCSA, che attesta le mie competenze come amministratore di sistema. Continuando nel mio percorso ho conseguito la certificazione RHCE che attesta le mie competenze in ansible.
 Fin dall'inizio del mio percorso nel mondo IT sono sempre stato affascinato dal cloud, in particolare da AWS: pur non avendo ancora conseguito certificazioni né maturato esperienza lavorativa diretta, ho comunque avuto modo di sperimentare in autonomia sulla console, creando istanze EC2 e gestendo utenti tramite IAM.
 Ho inoltre avuto l'opportunità di lavorare con OpenShift, seppur limitatamente a operazioni piuttosto semplici.
   
