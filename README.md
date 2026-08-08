@@ -31,10 +31,15 @@ Ho inoltre avuto l'opportunità di lavorare con OpenShift, seppur limitatamente 
 |----------------|------|------|
 | Comptia Security+ | Comptia | 2025 |
 | Red Hat Certified System Administrator | Red Hat | 2026 |
-| Red Hat Certified Engineer | Red Hat | In corso |
+| Red Hat Certified Advanced System Administrator in Ansible | Red Hat | 2026 |
+| Red Hat Certified Engineer | Red Hat | 2026 |
 
 <a href="https://www.credly.com/badges/7949ee82-411a-49c1-b04d-725fd9847087/public_url">
   <img src="comptia-security-ce-certification.png" width="120" alt="CompTIA Security+ ce Certification" />
+</a>
+
+<a href="https://www.credly.com/badges/7949ee82-411a-49c1-b04d-725fd9847087/public_url">
+  <img src="red-hat-certified-system-administrator-RHCSA .png" width="120" alt="red-hat-certified-system-administrator-RHCSA" />
 </a>
 
 <a href="https://www.credly.com/badges/7949ee82-411a-49c1-b04d-725fd9847087/public_url">
